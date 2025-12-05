@@ -1,4 +1,4 @@
-# Forecasting-Hidroeletrico-Ensemble-Optimize
+# Forecasting-Hidroeletrica-Ensemble-Optimize
 
 Previsão de Geração Hidrelétrica com Ensemble de Modelos (LightGBM, XGBoost, CatBoost)
 Visão Geral
